@@ -1,0 +1,117 @@
+#title {
+  font-family: "Caveat", cursive;
+  font-family: "Fasthand", cursive;
+  font-family: "Libre Baskerville", serif;
+  font-family: "Orbitron", sans-serif;
+  text-align: center;
+  height: 600px;
+  width: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #213555;
+  color: #f5efe7;
+}
+h1 {
+  font-size: 70px;
+}
+img {
+  margin-top: 50px;
+  border-radius: 25%;
+}
+.profile {
+  border-radius: 50%;
+  margin-top: 0;
+  margin-bottom: 5px;
+  height: 250px;
+  width: 200px;
+}
+.mx-auto {
+  font-size: auto;
+}
+#bio {
+  height: auto;
+}
+#education {
+  margin-top: 30px;
+  background-color: #213555;
+  color: #f5efe7;
+  height: auto;
+}
+.featurette-heading {
+  margin-top: 40px;
+  font-family: "Caveat", cursive;
+  font-family: "Fasthand", cursive;
+  font-family: "Libre Baskerville", serif;
+  font-family: "Orbitron", sans-serif;
+}
+.lead {
+  margin-top: 20px;
+  margin-bottom: 30px;
+  font-family: "Libre Baskerville", serif;
+  font-size: medium;
+}
+ul {
+  font-family: "Libre Baskerville", serif;
+  font-size: 15px;
+}
+.col-md-5 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#ss {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+}
+p.lead {
+  margin-top: 60px;
+}
+.im2 {
+  margin-bottom: 40px;
+}
+.im3 {
+  margin-bottom: 40px;
+}
+.text-body-emphasis {
+  font-family: "Orbitron", sans-serif;
+  margin-bottom: 30px;
+  margin-top: 0;
+}
+.im1 {
+  margin-bottom: 40px;
+}
+#contact {
+  background-color: #213555;
+  color: #f5efe7;
+  height: auto;
+}
+.logo {
+  display: flex;
+  justify-content: space-around;
+}
+.l1 {
+  height: 50px;
+  width: 50px;
+}
+.l2 {
+  height: 50px;
+  width: 50px;
+}
+.navbar {
+  background-color: #f3f3f3;
+  color: white;
+}
+#navi {
+  background-color: #213555;
+  color: #f5efe7;
+  font-family: "Libre Baskerville", serif;
+}
+button {
+  outline: white;
+}
+.me-auto {
+  color: white;
+}
